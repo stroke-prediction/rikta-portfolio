@@ -18,7 +18,7 @@ const Header = () => {
               2000,
               'Full Stack Developer',
               2000,
-              'Front End Developer',
+              'Frontend Developer',
               2000,
             ]}
             loop={Infinity}
